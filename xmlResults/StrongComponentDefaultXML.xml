@@ -1,0 +1,57 @@
+
+  <NoSqlDB>
+    <Element>
+      <Key>
+        StrongComponent: 1
+      </Key>
+      <Value>
+        <Name>
+          StrongComponent: 1
+        </Name>
+        <Category>
+          
+        </Category>
+        <TimeDate>
+          
+        </TimeDate>
+        <Data>
+          
+        </Data>
+        <Children>
+          <Child_Key>
+            C:\OOD\Project #2\ver 7\CodeAnalyzer\TestingFiles\FileD.h
+          </Child_Key>
+        </Children>
+      </Value>
+    </Element>
+    <Element>
+      <Key>
+        StrongComponent: 2
+      </Key>
+      <Value>
+        <Name>
+          StrongComponent: 2
+        </Name>
+        <Category>
+          
+        </Category>
+        <TimeDate>
+          
+        </TimeDate>
+        <Data>
+          
+        </Data>
+        <Children>
+          <Child_Key>
+            C:\OOD\Project #2\ver 7\CodeAnalyzer\TestingFiles\FileB.h
+          </Child_Key>
+          <Child_Key>
+            C:\OOD\Project #2\ver 7\CodeAnalyzer\TestingFiles\FileC.h
+          </Child_Key>
+          <Child_Key>
+            C:\OOD\Project #2\ver 7\CodeAnalyzer\TestingFiles\FileA.h
+          </Child_Key>
+        </Children>
+      </Value>
+    </Element>
+  </NoSqlDB>
